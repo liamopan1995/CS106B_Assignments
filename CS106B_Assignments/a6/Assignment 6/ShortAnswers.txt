@@ -1,0 +1,122 @@
+Q1: 	Windows
+
+	
+
+
+
+
+
+
+
+
+
+
+Q2:	elem[3]  name :<not accessible> ; weight: -4.8...e-26
+	elem[4]  name :<not accessible> ; weight: 0.0
+	elem[5]  name :<not accessible> ; weight: 8.5...3-312
+
+
+
+
+
+
+
+
+
+Q3:       
+          Jackie
+             1951
+
+            |     |
+           -+     +--
+       Tito       Jermaine
+       1953       1954
+       |  |
+       |  |
+    ---+  +--
+Micheal   Marlon
+ 1958      1957
+
+           Jackie
+             1951
+
+            |     |
+           -+     +--
+       Tito       Jermaine
+       1953       1954
+       |  |
+       |  |
+    ---+  +--
+Marlon  Micheal 
+ 1957      1958
+
+
+           Jackie
+             1951
+
+            |     |
+           -+     +--
+       Jermaine Tito       
+       1954       1953
+       |  |
+       |  |
+    ---+  +--
+Marlon  Micheal 
+ 1957      1958
+
+
+
+
+
+
+Q4:  see Q4 .png in this folder   in organge rectangle
+
+
+
+
+
+
+
+
+
+Q5:see Q4 .png in this folder in green rectangle
+
+
+
+
+
+
+
+
+
+Q6:    Array: [unused, 0 ; G, 2; B, 3; R, 4; S, 6; A, 5; V, 9; K, 7; 0, 8]
+
+
+
+
+
+
+
+
+
+Q7:
+
+
+
+
+
+
+
+
+
+Q8:
+
+
+
+
+
+
+
+
+
+

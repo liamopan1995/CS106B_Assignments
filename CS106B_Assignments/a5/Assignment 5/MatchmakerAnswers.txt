@@ -1,0 +1,21 @@
+Q1:   O(N3)
+
+
+
+
+Q2: time cost at n = 500 is : 10828 ms 
+      time cost at n = 5000 , n is 10times larger
+thus the time cost increases in a cubic way that is: 
+10828 * (5000/500)^3= 10828000ms = 10828s 
+
+
+
+
+Q3:  n = sqrt3(24h/10828) * 500  = 2659*500 =1329500
+where 24 h = 86400000ms
+
+第二次尝试 10828*(n/500)^3=86400000=t
+n = 500 * (86400000/10828)^(1/3 )= 9991 ,#之前^1/3 没有括号导致结果算错
+验算:       
+10828 * (9991/500)^3= 86390325 ms 正确
+

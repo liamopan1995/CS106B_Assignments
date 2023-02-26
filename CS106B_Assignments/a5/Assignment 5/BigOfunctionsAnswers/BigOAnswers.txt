@@ -1,0 +1,19 @@
+The big-O time complexity of the function...
+
+... printH is O(_n^2__),
+... printC is O(_n_),
+... printI is O(_n^2__),
+... printP is O(_n^2__),
+... printChip is O(__n^2_),
+... countTriples is O(_n^3__),
+... printCycle_v1 is O(_n2__),
+... printCycle_v2 is O(__n2_),
+... printCycle_v3 is O(__n_),
+... recursivePuzzle is O(_n__),
+... recursiveEnigma is O(_log2n_),
+... maximumSingleSellProfit_v1 is O(_n2__), and
+... maximumSingleSellProfit_v2 is O(_n+log2n__) = 0(N)
+o(log2N) < 0(N)
+
+
+以上结果经过runtime test 对比后被判定为正确答案

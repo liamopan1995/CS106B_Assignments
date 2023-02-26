@@ -1,0 +1,36 @@
+Put your answers to the debugging questions from Problem One in this file.
+
+Q1:
+Name  Value
+finish   'C'
+numDisks  5
+start    'A'
+temp   'B'
+
+
+Q2:
+file name:  TowerOfHanoiGUI.cpp
+function name :makeTheMagicHappen
+
+
+
+
+Q3:
+totalMoves = 31
+
+
+Q4:   totalMoves = 15
+
+
+
+Q5:
+the remaining was supposed to be W check
+ but chosen must be just K 
+
+
+
+Q6:
+AB
+
+
+Q7:
